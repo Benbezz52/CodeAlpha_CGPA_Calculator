@@ -1,7 +1,9 @@
 # CodeAlpha CGPA Calculator
-A C++ console-based CGPA Calculator developed as part of the CodeAlpha C++ Internship. ## 📌 Project Overview
+A C++ console-based CGPA Calculator developed as part of the CodeAlpha C++ Internship.
+ ##  Project Overview
 This program allows students to enter information about their semesters, courses, grades, and
-credit hours. It calculates the GPA for each semester and the overall CGPA. ## ✨ Features
+credit hours. It calculates the GPA for each semester and the overall CGPA. 
+##  Features
 - Enter multiple semesters
 - Enter multiple courses for each semester
 - Enter course names
